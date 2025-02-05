@@ -1,45 +1,86 @@
-    <h1>Hi there, I'm [Your Name] 👋</h1>
-    
-    <div class="banner">
-        <img src="your-banner-image-url" alt="Banner Image">
-    </div>
-    
-    <p>I am a friendly and approachable individual who loves to communicate and collaborate with others. I believe in continuous learning and enjoy discussing new ideas, sharing knowledge, and working in a positive and supportive environment. Always open to meaningful conversations and constructive feedback!</p>
-    
-    <h2>👨‍💻 About Me</h2>
-    <p>I'm a <strong>[Your Job Title]</strong> with a passion for building impactful and user-friendly applications. I love exploring new technologies and continuously improving my skills.</p>
-    <ul>
-        <li>🔭 Currently working on <strong>[Your Project/Technology]</strong></li>
-        <li>🌱 Learning <strong>[New Technology or Skill]</strong></li>
-        <li>💬 Ask me about <strong>[Your Expertise]</strong></li>
-        <li>📫 How to reach me: <strong>[Your Email]</strong></li>
-    </ul>
-    
-    <h2>🚀 Skills</h2>
-    <div class="skills">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    </div>
-    
-    <h2>📊 GitHub Stats</h2>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark" alt="Top Languages">
-    
-    <h2>📌 Pinned Repositories</h2>
-    <a href="https://github.com/your-github-username/repo-name">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repo-name&theme=dark" alt="Pinned Repo">
-    </a>
-    
-    <h2>🔗 Connect with Me</h2>
-    <div class="social">
-        <a href="https://linkedin.com/in/your-profile">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://twitter.com/your-profile">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-        </a>
-    </div>
+<h1 align="left">Hi there, I'm Sirazul Islam 👋</h1>
 
-    <hr>
-    <p>📌 <strong>Feel free to explore my repositories and connect with me! 🚀</strong></p>
+###
+
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/60c9G5JV/Blue-White-Modern-Online-Business-Webinar-Banner-Landscape.png"  />
+</div>
+
+###
+
+<p align="left">My Name is Sirazul Islam .<br> I am a friendly and approachable individual who loves to communicate and collaborate with others. I believe in continuous learning and enjoy discussing new ideas, sharing knowledge, and working in a positive and supportive environment. Always open to meaningful conversations and constructive feedback!</p>
+
+###
+
+<h2 align="center">About me</h2>
+
+###
+
+<p align="left">I'm a Frontend developer with a passion for building impactful and user-friendly applications. I love exploring new technologies and continuously improving my skills.</p>
+
+###
+
+<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently Work Parcel management Project<br>📫 How to reach me: sirazulislam3734@gmail.com<br>🎲 Fun fact: I prefer playing video games.</p>
+
+###
+
+<h1 align="center">🚀 Skills</h1>
+
+###
+
+<h4 align="center">Frontend</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h4 align="center">Backend</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+</div>
+
+###
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirazulislam3734&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sirazulislam3734&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirazulislam3734&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h1 align="center">🔗 Connect with Me</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sirazul-islam-1a4893318/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100069182026840" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
